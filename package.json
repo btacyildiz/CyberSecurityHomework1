@@ -1,0 +1,14 @@
+{
+    "name": "rc4-cipher",
+    "version": "0.0.1",
+    "main": "main.js",
+    "scripts": {
+        "test": "mocha --recursive"
+    },
+    "devDependencies": {
+        "nist-randomness-test-suite": "0.0.7"
+    },
+    "dependencies": {
+        "mocha": "^5.0.4"
+    }
+}
